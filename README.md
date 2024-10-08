@@ -1,1 +1,1 @@
-# bot-pmib-prod
+# LurnyBot
